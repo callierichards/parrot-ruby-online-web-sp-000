@@ -3,5 +3,6 @@
 def parrot (phrase="Squawk!")
   phrase_1 = "Squawk!"
   phrase_2 = "Pretty bird!"
-return "Pretty bird!"
+  puts "Pretty bird!"
+return phrase
 end
